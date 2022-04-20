@@ -1,4 +1,4 @@
-# ✔️ td 
+# ✔️ td ⌘
 Command Line Tool to manage your To Do 
 
 
