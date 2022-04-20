@@ -7,7 +7,7 @@ Command Line Tool to manage your To Do
 ## ❓What td ⌘ does
 
 
-## Usage
+## ⌨️ Usage
  * Example
 ```shell
     	td
