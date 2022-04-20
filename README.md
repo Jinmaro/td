@@ -4,7 +4,7 @@ Command Line Tool to use Your To Do
 
 ## Usage
  * Example
- ,,,
+ ```
   $ td
  >>> 1:o, xxxx
  	2:o, yyyy
@@ -22,4 +22,4 @@ Command Line Tool to use Your To Do
  $ td -e zzzz aaaa
  >>> 1:x, xxxx
  	2:o, aaaa
- ,,,
+ ```
