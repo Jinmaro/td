@@ -6,8 +6,8 @@ Command Line Tool to manage your To Do
 
 ## ❓What `td` ⌘ does
 * You can manage your To Do with `td`
-* - adsaf
-* - dasfd
+* adsaf
+* dasfd
 
 ## ⌨️ Usage
  * Example
