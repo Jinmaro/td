@@ -4,7 +4,7 @@ Command Line Tool to manage your To Do
 
 ![logo](https://github.com/Jinmaro/td/blob/main/IMG_0334.PNG)
 
-## ❓What td ⌘ does
+## ❓What 'td' ⌘ does
 
 
 ## ⌨️ Usage
