@@ -6,20 +6,20 @@ Command Line Tool to use Your To Do
  * Example
  ```
   $ td
- >>> 1:o, xxxx
- 	2:o, yyyy
+    >>>  1:o, xxxx
+         2:o, yyyy
  $ td -a zzzz
- >>> 1:o, xxxx
- 	2:o, yyyy
- 	3:o, zzzz
+    >>>  1:o, xxxx
+ 	       2:o, yyyy
+ 	       3:o, zzzz
  $ td -f xxxx
- >>> 1:x, xxxx
- 	2:o, yyyy
- 	3:o, zzzz
+    >>>  1:x, xxxx
+ 	       2:o, yyyy
+ 	       3:o, zzzz
  $ td -d yyyy
- >>> 1:x, xxxx
- >>> 2:o, zzzz
+    >>>  1:x, xxxx
+         2:o, zzzz
  $ td -e zzzz aaaa
- >>> 1:x, xxxx
- 	2:o, aaaa
+    >>>  1:x, xxxx
+ 	       2:o, aaaa
  ```
