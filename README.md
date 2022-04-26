@@ -22,30 +22,27 @@ OPTIONS
     -h, --help 
 ```
 
- * Example
-```shell
-    	td
-		1:o, xxxx
-		2:o, yyyy
-	td -a zzzz
-		1:o, xxxx
-		2:o, yyyy
-		3:o, zzzz
-	td -f xxxx
-		1:x, xxxx
-		2:o, yyyy
-		3:o, zzzz
-	td -d yyyy
-		1:x, xxxx
-		2:o, zzzz
-	td -e zzzz aaaa
-		1:x, xxxx
-		2:o, aaaa
-```
-
 ## 🖥️ Sample Output
 ```
 $ td
-1:o, Homework
-2:o, Running
+o: Homework
+o: Running
+
+$ td -a Buy_2_tomatos
+o: Homework
+o: Running
+o: Buy_2_tomatos
+
+$ td -f Running
+o: Homework
+x: Running
+o: Buy_2_tomatos
+
+$ td -d Homework
+x: Running
+o: Buy_2_tomatos
+
+$ td -e Buy_2_tomatos Buy_3_tomatos
+x: Running
+o: Buy_3_tomatos
 ```
