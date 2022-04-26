@@ -39,4 +39,3 @@ $ td
 1:o, Homework
 2:o, Running
 ```
-## 🖥️ Sample Output
