@@ -12,6 +12,16 @@ Command Line Tool to manage your To Do
 	- delete your To Do
 
 ## ⌨️ Usage
+```
+td [OPTIONS]
+OPTIONS
+    -a, --add <NEW_TO_DO>
+    -f, --finish <FINISHED_TO_DO>
+    -d, --delete <DELETED_TO_DO>
+    -e, --edit <EDITED_TO_DO> <NEW_TO_DO>
+    -h, --help 
+```
+
  * Example
 ```shell
     	td
