@@ -1,5 +1,5 @@
 # ✔️ `td` ⌘
-Command Line Tool to manage your To Do 
+Command Line Tool to manage your To Do
 
 
 ![logo](https://github.com/Jinmaro/td/blob/main/IMG_0334.PNG)
@@ -13,13 +13,21 @@ Command Line Tool to manage your To Do
 
 ## ⌨️ Usage
 ```
-td [OPTIONS]
-OPTIONS
-    -a, --add <NEW_TO_DO>                   add NEW_TO_DO to your To Do list.
-    -f, --finish <FINISHED_TO_DO>           put a check mark to FINISHED_TO_DO of your To Do list.
-    -d, --delete <DELETED_TO_DO>            delete DELETED_TO_DO from your To Do list.
-    -e, --edit <EDITED_TO_DO> <NEW_TO_DO>   change EDITED_TO_DO of your To Do list to NEW_TO_DO.
-    -h, --help                              print this message.
+Command Line Tool to manage your To Do.
+
+USAGE:
+    td [OPTIONS] <TODO>
+
+ARGS:
+    <TODO>    
+
+OPTIONS:
+    -a, --add <NEW_TO_DO>            add NEW_TO_DO to your To Do list.
+    -d, --delete <DELETED_TO_DO>     delete DELETED_TO_DO from your To Do list.
+    -e, --edit <EDITED_TO_DO>        change EDITED_TO_DO of your To Do list to NEW_TO_DO.
+    -f, --finish <FINISHED_TO_DO>    put a check mark to FINISHED_TO_DO of your To Do list.
+    -h, --help                       Print help information
+    -V, --version                    Print version information                           print this message.
 ```
 
 ## 🖥️ Sample Output
