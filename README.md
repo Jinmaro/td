@@ -27,7 +27,7 @@ OPTIONS:
     -e, --edit <EDITED_TO_DO>        change EDITED_TO_DO of your To Do list to NEW_TO_DO.
     -f, --finish <FINISHED_TO_DO>    put a check mark to FINISHED_TO_DO of your To Do list.
     -h, --help                       Print help information
-    -V, --version                    Print version information                           print this message.
+    -V, --version                    Print version information
 ```
 
 ## 🖥️ Sample Output
