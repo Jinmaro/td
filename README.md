@@ -1,8 +1,12 @@
 # ✔️ `td` ⌘
 Command Line Tool to manage your To Do
 
+[![Coverage Status](https://coveralls.io/repos/github/Jinmaro/td/badge.svg)](https://coveralls.io/github/Jinmaro/td)
+
+[![build](https://github.com/Jinmaro/td/actions/workflows/build.yaml/badge.svg)](https://github.com/Jinmaro/td/actions/workflows/build.yaml)
 
 ![logo](https://github.com/Jinmaro/td/blob/main/IMG_0334.PNG)
+
 
 ## ❓ What `td` ⌘ does
 * You can manage your To Do with `td`
